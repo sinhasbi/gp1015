@@ -1,0 +1,3 @@
+echo -40 90| psxy -R-60/60/-80/150 -JX6.0 -St0.5  -Ba10g5/a20g10  -G225/0/0 -W2/0 -K > test.ps
+echo 0 0| psxy -R-60/60/-80/150 -JX6.0 -St0.5 -Ba10g5/a20g10  -G0/225/0 -W2/0  -O -K  >>test.ps
+echo 40 30| psxy -R-60/60/-80/150 -JX6.0 -Ss0.5 -Ba10g5/a20g10  -G0/0/225 -W2/0  -O  >>test.ps

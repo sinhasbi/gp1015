@@ -1,0 +1,2 @@
+pscoast -R119/123/21/26 -JM6.5i -Ba20f5 -N1/2/255/0/0ta -N2/2/0/to -W1/0/0/255 -P -K > test2.ps
+echo 121 24 | psxy -R119/123/21/26  -Sc0.3 -G125/0/125 -O -JM6.5i  >> test2.ps
